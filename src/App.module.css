@@ -1,0 +1,10 @@
+.wrapper {
+  max-width: 70rem;
+  margin: auto;  /* centralizar */
+  padding: 0 1rem;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--gray-100);
+}
